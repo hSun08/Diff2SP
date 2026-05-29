@@ -14,8 +14,6 @@ from options import Options
 # =========================
 # Fixed config (no CLI args except --mode)
 # =========================
-DATA_FILE = "/home/sun1321/src/diff2sp_new/data/data.csv"
-LABEL_FILE = "/home/sun1321/src/diff2sp_new/data/label.csv"
 
 BATCH_SIZE = 32
 SHUFFLE = True
