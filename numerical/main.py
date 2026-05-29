@@ -23,9 +23,6 @@ STRIDE = 1
 MAX_ROWS_TRAIN = 200000
 
 # Sample config (you can edit here)
-CKPT_PATH = "/home/sun1321/src/diff2sp_new/output_model/epoch200.pt"
-N_SAMPLES = 1000
-OUT_DIR = "/home/sun1321/src/diff2sp_new"
 FILTER_ALL_ZERO_ROWS = True
 
 # Normalization stats (min/max) will be saved next to the checkpoint by default.
